@@ -231,6 +231,7 @@
 .thumbnail{
     background: linear-gradient(180deg, rgba(0, 0, 0, 0) 70%, #000000 95%);
     z-index: 1;
+    transition:0.5s;
 }
 .thumbnail:hover{
     scale:1.1;
